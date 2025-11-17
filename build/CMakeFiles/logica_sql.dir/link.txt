@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic -Wl,--dependency-file=CMakeFiles/logica_sql.dir/link.d CMakeFiles/logica_sql.dir/main.cpp.o CMakeFiles/logica_sql.dir/log_msg.cpp.o -o logica_sql

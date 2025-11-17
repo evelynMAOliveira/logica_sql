@@ -1,0 +1,3 @@
+/home/evelyn/dev/logica_sql/build/CMakeFiles/university_app.dir
+/home/evelyn/dev/logica_sql/build/CMakeFiles/edit_cache.dir
+/home/evelyn/dev/logica_sql/build/CMakeFiles/rebuild_cache.dir
